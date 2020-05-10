@@ -1,0 +1,15 @@
+#text {
+  height:200px;
+  text-align:center;
+}
+#btn {
+  padding:20px 30px;
+  border:1px solid white;
+  background-image:linear-gradient(to right, red, blue);
+  font-size:15px;
+  cursor:pointer;
+  transition:0.4s;
+}
+#btn:hover {
+  background-image:linear-gradient(to right, blue, orange);
+}
